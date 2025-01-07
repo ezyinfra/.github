@@ -7,13 +7,24 @@ EzyInfra is a **DevOps, DevSecOps & Infrastructure Consulting** company focused 
 
 We are specialized in these technologies and bring in 12+ years of experience working in the Software Industry,
 
+---
+
 Cloud Provider: **AWS**, **Google Cloud Platform**
+
 Container Orchestrator: **Kubernetes**, **AWS ECS**
+
 CI / CD Platforms: **Github Actions**, **Jenkins**, **ArgoCD**, **CircleCI**
+
 Monitoring: **DataDog**, **Prometheus**, **New Relic**
+
 Security Tools: **Trivy**, **Kubescan**
+
 Database / Storage / Streaming: **Postgres**, **Cassandra**, **Kafka**, **Elasticsearch**
+
 Big Data: **Apache Spark**, **Apache Flink**
+
+
+---
 
 ## Our Mission 🎯
 To simplify Infrastructure management by adopting Industry standard best practices that are Cost Effective, Scalable and Resilient architectures
