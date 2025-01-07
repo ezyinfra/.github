@@ -1,5 +1,7 @@
 # EzyInfra
 
+![EzyInfra Collage](./collage.png)
+
 ## Who We Are 🌟
 EzyInfra is a **DevOps, DevSecOps & Infrastructure Consulting** company focused on delivering Cloud Native solutions for startups.
 
